@@ -3,3 +3,11 @@ DB/case9.dump
 Local_DB.py
 SkillFactory_DB.py
 .ipynb_checkpoints
+DB/case9.registration.dump.xz
+DB/case9.user_activity.csv.xz
+DB/case9.user_revenue.csv.xz
+DB/copy.log
+DB/create_db.sql
+DB/dump_db.sh
+DB/dump_new_db.sh
+DB/fill_data.pgsql
